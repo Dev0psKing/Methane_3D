@@ -229,7 +229,7 @@ of this software and associated documentation files...
 
 ## 📬 Contact
 
-**Your Name** – [@Dev0psKing](https://twitter.com/Dev0psKing) - uwabor@zohomail.com
+**Your Name** - [@Dev0psKing](https://twitter.com/Dev0psKing) - uwabor@zohomail.com
 
 ---
 
