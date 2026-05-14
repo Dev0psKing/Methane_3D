@@ -223,7 +223,7 @@ of this software and associated documentation files...
 
 ## 🙏 Acknowledgments
 
-- **Three.js Team** – For the incredible 3D library
+- **Three.js Team** - For the incredible 3D library
 - **Chemistry Educators** – For inspiring molecular visualizations
 - **Open Source Community** – For tools and resources
 
